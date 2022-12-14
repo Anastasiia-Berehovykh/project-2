@@ -1,0 +1,57 @@
+.link{
+    margin: 0 auto;
+}
+.list{
+    list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+.product{
+    
+    width: 1396px;
+}
+.product-title{
+    margin: 0 auto;
+    font-family: 'Seymour One';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 45px;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+
+color: #131313;
+
+}
+.product-card{
+
+}
+.product-item{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.04em;
+text-transform: uppercase;
+
+color: #131313;
+}
+.product-text{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 176%;
+/* or 28px */
+
+text-align: center;
+letter-spacing: 0.04em;
+
+color: #131313;
+
+}
